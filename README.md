@@ -1,1 +1,3 @@
 # Mapping_Earthquakes
+## Project Overview
+The primary purpose of this project was to display earthquake data from the past 7 days in relation to the tectonic plates’ location on the earth, and to show all the earthquakes with a magnitude greater than 4.5 on the map.  Multiple data sources were used from USGS.gov to create the visualization. The map displays circle markers for the location of each earthquake with the size and color in relation to the magnitude of each quake.  The map contains a legend displaying the colors in relation to the magnitude.  Multiple layer groups and overlays were created to display the data. Finally, a Major Earthquake overlay was added to display all earthquakes with a magnitude of 4.5 or higher.     
